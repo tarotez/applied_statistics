@@ -1,0 +1,9 @@
+*.pyc
+*.tsv
+.*
+!.gitignore
+*.pkl
+*~
+__pycache__/*
+*.pyc
+.python-version
