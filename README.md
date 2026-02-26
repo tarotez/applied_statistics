@@ -1,1 +1,1 @@
-# applied_statistics
+# Applied statistics sample code
